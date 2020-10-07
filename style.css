@@ -52,7 +52,7 @@ html,body{
 
 .jumbotron {
     text-align: center;
-    background-color: black;
+    background-color: rgb(20, 71, 71);
     border-radius: 0;
     color: white;
     box-shadow: -3px 10px 10px rgb(66, 66, 66);
@@ -183,7 +183,7 @@ and (max-width : 768px) {
 /*------------------------portfolio section-----------------------------------*/
 
 #portfolio {
-    background-color: black;
+    background-color: rgb(20, 71, 71);;
     color: white;
     padding-top: 50px;
     padding-bottom: 200px;
